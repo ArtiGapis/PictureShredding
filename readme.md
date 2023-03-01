@@ -11,10 +11,10 @@ Project mission is to try and do that same, but with Python (numpy).
 ### Introduction
 Progress of the project:
 The picture is cut horizontally into eight equal parts. Each part is cut into eight more parts
-![](doc/pic_1.png)
+![](doc/pic_1.png)<br/>
 By connecting every other patch we get two pictures.
 We flip both images at a 90-degree angle and perform the splitting procedure again.
-When the pictures are combined and flipped back, we have four identical pictures
+When the pictures are combined and flipped back, we have four identical pictures<br/>
 ![](doc/pic_final.png)
 
 ### Startup procedure
